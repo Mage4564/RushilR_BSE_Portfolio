@@ -5,7 +5,7 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 |:--:|:--:|:--:|:--:|
 | Anika M | Harker Upper School | Computer Science | Rising Junior
 
-![Final Smart Mirror Product] 
+# Current Smart Mirror Monitor  
 <html>
 <img src="IMG-5785.JPG">
 </html>
