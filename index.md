@@ -5,7 +5,10 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 |:--:|:--:|:--:|:--:|
 | Anika M | Harker Upper School | Computer Science | Rising Junior
 
-![Final Smart Mirror Product](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+![Final Smart Mirror Product] 
+<html>
+<img src="IMG-5785.JPG">
+</html>
   
 # Final Milestone
 3 to 4 sentances for final milestone...
