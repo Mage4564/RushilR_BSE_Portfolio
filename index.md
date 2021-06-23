@@ -11,6 +11,7 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 <img src="IMG-5785.JPG">
 </html>
   
+  
 
 # Final Milestone
 3 to 4 sentances for final milestone...
@@ -18,10 +19,12 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 put a milestone vid here
 
 
+
 # Second Milestone
 3-4 sentences for 2nd milestone
 
 put a milestone vid here
+
 
 
 # Display Sketch 
@@ -31,6 +34,7 @@ While waiting for my software to download, I decided to made a sketch of the mon
 <img src="Screen Shot 2021-06-18 at 9.52.02 AM.png">
 </html>
 Initial Design
+
 
 
 <html>
