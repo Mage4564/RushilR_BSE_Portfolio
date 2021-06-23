@@ -3,7 +3,7 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Anika M | Harker Upper School | Computer Science | Rising Junior
+| Anika M | Harker Upper School | Business & Computer Science | Rising Junior
 
 # Current Smart Mirror Monitor  
 <html>
