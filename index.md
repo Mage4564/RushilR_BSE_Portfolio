@@ -26,17 +26,15 @@ put a milestone vid here
 
 # Display Sketch 
 While waiting for my software to download, I decided to made a sketch of the monitor display and layout of my additions. My initial design (the top one) was much more cramped, with everything on one side. But after realizing that the monitor is only 7 inches, I changed the sketch (bottom one) to be more spread out and have all the icons larger. Another thing that I changed between the two drafts is the color scheme. In my final draft I kept the color scheme more simple, pink on the right and green on the left, which is much more aesthetic than my first attempt. 
-
 Initial Design
 <html>
-<img src="Screen Shot 2021-06-18 at 9.52.02 AM.png">
-    
+<img src="Screen Shot 2021-06-18 at 9.52.02 AM.png">   
 </html>
-
 
 Final Design
 <html>
 <img src="Smart Mirror Draft.png">
+    
 </html>
 
 
