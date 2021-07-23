@@ -13,6 +13,7 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 Final Design
 
 <html>
+
 <img src="IMG-5785.JPG">
 </html>
 Initial Desgin
@@ -32,7 +33,7 @@ put milestone video here
 
 
 # Display Sketch 
-While waiting for my software to download, I decided to made a sketch of the monitor display and layout of my additions. My initial design (the top one) was much more cramped, with everything on one side. But after realizing that the monitor is only 7 inches, I changed the sketch (bottom one) to be more spread out and have all the icons larger. Another thing that I changed between the two drafts is the color scheme. In my final draft I kept the color scheme more simple, pink on the right and green on the left, which is much more aesthetic than my first attempt. 
+While waiting for my software to download, I decided to made a sketch of the monitor display and layout of my additions. My initial design (the top one) was much more cramped, with everything on one side. But after realizing that the monitor is only 7 inches, I changed the sketch (bottom one) to be more spread out and have all the icons larger. Another thing that I changed between the two drafts is the color scheme. In my final draft I kept the color scheme more simple, pink on the right and green on the left, which is much more aesthetic than my first attempt.
 
 
 <html>
