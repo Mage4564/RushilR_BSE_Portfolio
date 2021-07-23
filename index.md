@@ -6,11 +6,17 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 | Anika M | Harker Upper School | Business & Computer Science | Rising Junior
 
 
-# Current Smart Mirror Monitor  
+# Smart Mirror Monitor  
+<html>
+<img src="IMG-7354.JPG">
+</html>
+Final Design
+
 <html>
 <img src="IMG-5785.JPG">
 </html>
-    
+Initial Desgin
+
 
 # Final Milestone
 3 to 4 sentances for final milestone...
