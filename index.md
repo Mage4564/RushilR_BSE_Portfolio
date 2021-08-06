@@ -5,6 +5,8 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 |:--:|:--:|:--:|:--:|
 | Anika M | Harker Upper School | Business & Computer Science | Rising Junior
 
+# Reflection
+reflecting my time at bluestampp... (didn't finish everything but i learned a lot and i am very proud of what i was able to make in just three weeks)
 
 # Smart Mirror Monitor  
 Final Design
@@ -19,16 +21,16 @@ Initial Design
 
 
 # Final Milestone
-3 to 4 sentances for final milestone...
+what was the final milestone,, below vid is for demo night (showing my mirror),, did not finish glueing mirror part
 
-put a milestone vid here
+[![Demo Night Vid](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289700/video_to_markdown/images/youtube--_TTp9rQcXJg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_TTp9rQcXJg&t=4s "Demo Night Vid")
 
 
 # Second Milestone
 
 I reached my second milestone today! I finished working on the software and writing the code on Visual Studio Code. I have made the components for the time/date, todo list, and photo album, but because of time constraints, I am not going to be making the music player and text notifications components. If I have extra time after finishing my third milestone, I will add the music component. Writing the todo list code was the most difficult because I had to connect the API to my google calendar. However, the other two, time/date and photo album, were much easier. The layout of the monitor is similar to my sketch, and I am ready to place all of my parts together and finish my third milestone soon.
 
-put milestone video here
+[![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289614/video_to_markdown/images/youtube--0PfWPwV4eSk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0PfWPwV4eSk "Milestone 2 Video")
 
 
 # Display Sketch 
