@@ -6,7 +6,7 @@ I am using a raspberry pi model to make a Smart Mirror that displays useful thin
 | Anika M | Harker Upper School | Business & Computer Science | Rising Junior
 
 # Reflection
-reflecting my time at bluestampp... (didn't finish everything but i learned a lot and i am very proud of what i was able to make in just three weeks)
+My time at BlueStamp was both fun and extremely informative. I learned so many new things from what a Rasperry Pi is and to how to use an API. Although I did not get to finish everything that I had planned for my Smart Mirror project, I learned so much and I'm very proud of what I was able to make in just three weeks. I really value all the lessons I learned this summer and I know that I will be using them again in the future. If you scroll below, you can see my journey working on this project and how I was able to tackle the problems I ran into. 
 
 # Smart Mirror Monitor  
 Final Design
@@ -14,14 +14,14 @@ Final Design
 <img src="IMG-7354.JPG">
 </html>
 
-Initial Design
+Base Code Design
 <html>
 <img src="IMG-5785.JPG">
 </html>
 
 
 # Final Milestone
-what was the final milestone,, below vid is for demo night (showing my mirror),, did not finish glueing mirror part
+I reached my final milestone! My goal for this milestone was to format all the components on the screen in a visually aesthetic way, following the sketch I had previously made, and glue the physical peices of the mirror together. I was able to experiment with colors, fonts, and sizes until I was finally satisfied with how it looked. Unfortunately, I was not able to glue the mirror onto the monitor before my 3 weeks at BlueStamp was over. However, I am planning to finish that up and work on some additional components for my smart mirror as well. The components I want to add are the music player and text notification. With all the knowledge I gained at BlueStamp, I feel confident in my ability to keep improving the smart mirror. In the video below, I will be presenting my Smart Mirror, explaining my journey working on this project, and talking about this final milestone. Thank you so much for following me on this journey!
 
 [![Demo Night Vid](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289700/video_to_markdown/images/youtube--_TTp9rQcXJg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_TTp9rQcXJg&t=4s "Demo Night Vid")
 
