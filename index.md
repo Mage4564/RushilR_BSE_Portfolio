@@ -1,9 +1,9 @@
-﻿# Smart Mirror Project
-I am using a raspberry pi model to make a Smart Mirror that displays useful things for my everyday life! The monitor is going to run a program that I wrote from scratch, using react and electron and display the information on the mirror. I am going to put the following modules on the mirror: date/time, to do list, music, photo album slide show, text notifications. 
+# Smart Watch Project
+I am utilizing ESP32 Pico as well as several provided components including: IR Transmitter/Reciever, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several features.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Anika M | Harker Upper School | Business & Computer Science | Rising Junior
+| Rushil R | Los Altos High SChool | Computer Science & Engineeing| Rising Junior
 
 # Reflection
 My time at BlueStamp was both fun and extremely informative. I learned so many new things from what a Rasperry Pi is and to how to use an API. Although I did not get to finish everything that I had planned for my Smart Mirror project, I learned so much and I'm very proud of what I was able to make in just three weeks. I really value all the lessons I learned this summer and I know that I will be using them again in the future. If you scroll below, you can see my journey working on this project and how I was able to tackle the problems I ran into. 
