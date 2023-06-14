@@ -44,7 +44,7 @@ Initial Design
 
 Final Design
 <html>
-<img src="Smart Mirror Draft.png">    
+<img src="PXL_20230614_201049686.MP.jpg">    
 </html>
 
 
