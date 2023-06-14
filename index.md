@@ -38,11 +38,14 @@ While waiting for my software to download, I decided to made a sketch of the mon
 
 
 Initial Design
-<html>
-<img src="Screen Shot 2021-06-18 at 9.52.02 AM.png">   
-</html>
+<iframe width="315" height="560"
+src="https://www.youtube.com/shorts/ZrCfouDDVzo"
+title="YouTube video player"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>
 
-Final Design
+Watch on Wrist
 <html>
 <img src="PXL_20230614_201049686.MP.jpg">    
 </html>
