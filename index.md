@@ -38,12 +38,8 @@ While waiting for my software to download, I decided to made a sketch of the mon
 
 
 Initial Design
-<iframe width="315" height="560"
-src="https://www.youtube.com/shorts/ZrCfouDDVzo"
-title="YouTube video player"
-frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-allowfullscreen></iframe>
+<embed src="PXL_20230614_201125886~2.mp4" autostart="false" height="600" width="800" /></embed>
+
 
 Watch on Wrist
 <html>
