@@ -52,3 +52,11 @@ Watch on Wrist
 I have reached my first milestone! This milestone was just getting the base project and code to work. Before reaching this milestone, I had to set up the raspberry pi, install the Node.js software, and finally run the base code. The hardest step was setting up the raspberry pi because I didnt have a keyboard to help me set up and connect to wifi. However, I found a solution to help me: I used my hotspot and put a simple password so that I could copy and paste it into the monitor with just my mouse. After setting up the Raspberry Pi, I installed Node.js throught the terminal in VNC viewer. Finally, I ran the base code and I was so happy when everything worked! Even though the first step was really difficult and discouraging when I couldn't set up my Pi, I am really proud of myself for getting to this first milestone! The video below includes a demo showing how the base code runs on my Raspberry Pi. 
 
 [![Milestone 1 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1624377835/video_to_markdown/images/youtube--ddD0RsdZ0dk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ddD0RsdZ0dk "Milestone 1 Video")
+
+
+#Starter Project
+
+I finished my starter project! This project involved building an alarm clock from the basic instructions and materials provided. This project involved a lot of soldering as many of the components needed to be soldered onto the PCB in order for it to work. I found building this alarm clock to be extremely fun, as it was a big relief once it worked on the first attempt. I also found it interesting how each part has a function, and even the smallest pars can contribute mainly to the final functionality. As this was my first time soldering for a project, I am incredibly proud of myself for finishing the project with a high degree of quality.
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pBVsiNEepwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
