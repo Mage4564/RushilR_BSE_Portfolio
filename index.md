@@ -30,28 +30,26 @@ I reached my final milestone! My goal for this milestone was to format all the c
 
 I reached my second milestone today! I finished working on the software and writing the code on Visual Studio Code. I have made the components for the time/date, todo list, and photo album, but because of time constraints, I am not going to be making the music player and text notifications components. If I have extra time after finishing my third milestone, I will add the music component. Writing the todo list code was the most difficult because I had to connect the API to my google calendar. However, the other two, time/date and photo album, were much easier. The layout of the monitor is similar to my sketch, and I am ready to place all of my parts together and finish my third milestone soon.
 
-[![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289614/video_to_markdown/images/youtube--0PfWPwV4eSk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0PfWPwV4eSk "Milestone 2 Video")
-
-
-# Display Sketch 
-While waiting for my software to download, I decided to made a sketch of the monitor display and layout of my additions. My initial design (the top one) was much more cramped, with everything on one side. But after realizing that the monitor is only 7 inches, I changed the sketch (bottom one) to be more spread out and have all the icons larger. Another thing that I changed between the two drafts is the color scheme. In my final draft I kept the color scheme more simple, pink on the right and green on the left, which is much more aesthetic than my first attempt.
-
-
-Initial Design
-<embed src="PXL_20230614_201125886~2.mp4" autostart="false" height="600" width="800" /></embed>
-
-
-Watch on Wrist
+Closeup Picture
 <html>
-<img src="PXL_20230614_201049686.MP.jpg">    
+<img src="IMG-5785.JPG">
 </html>
+
+[![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289614/video_to_markdown/images/youtube--0PfWPwV4eSk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0PfWPwV4eSk "Milestone 2 Video")
 
 
 # First Milestone
 
-I have reached my first milestone! This milestone was just getting the base project and code to work. Before reaching this milestone, I had to set up the raspberry pi, install the Node.js software, and finally run the base code. The hardest step was setting up the raspberry pi because I didnt have a keyboard to help me set up and connect to wifi. However, I found a solution to help me: I used my hotspot and put a simple password so that I could copy and paste it into the monitor with just my mouse. After setting up the Raspberry Pi, I installed Node.js throught the terminal in VNC viewer. Finally, I ran the base code and I was so happy when everything worked! Even though the first step was really difficult and discouraging when I couldn't set up my Pi, I am really proud of myself for getting to this first milestone! The video below includes a demo showing how the base code runs on my Raspberry Pi. 
+I have reached my first milestone! This milestone involved the creation of my first ever screen on the smart watch, a simple stopwatch. Before reaching this milestone, I had to set up the M5Stick Plus which had an ESP32 Pico Kit installed. I first had to burn the ESP32 Pico which enabled me to connect it to the wifi and connect it to the UIFlow Interface. This allowed me to code the stopwatch. In this stopwatch we have 3 functions: Restart, Start, and Stop. Through the different types of button presses I was able to code all of those 3 functions to one singular button on the Stick C. First, a singular press either Starts/Stops it depending on if the stopwatch is currently counting or not. Secondly, a longer press restarts the stop watch to 0. Overall, I am really proud of how far I have come in terms of being knowledgeable about how to code the M5Stick
 
-[![Milestone 1 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1624377835/video_to_markdown/images/youtube--ddD0RsdZ0dk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=ddD0RsdZ0dk "Milestone 1 Video")
+Milestone I Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CIY-Y0Lh2Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+In-depth picture:
+<html>
+<img src="">
+</html>
+
 
 
 #Starter Project
