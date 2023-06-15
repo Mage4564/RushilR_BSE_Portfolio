@@ -47,7 +47,7 @@ Milestone I Video:
 
 In-depth picture:
 <html>
-<img src="">
+<img src="PXL_20230615_155954206.MP.jpg">
 </html>
 
 
