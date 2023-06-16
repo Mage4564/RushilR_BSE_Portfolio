@@ -5,6 +5,7 @@ I am utilizing ESP32 Pico as well as several provided components including: IR T
 |:--:|:--:|:--:|:--:|
 | Rushil R | Los Altos High SChool | Computer Science & Engineeing| Rising Junior
 
+<!--
 # Reflection
 My time at BlueStamp was both fun and extremely informative. I learned so many new things from what a Rasperry Pi is and to how to use an API. Although I did not get to finish everything that I had planned for my Smart Mirror project, I learned so much and I'm very proud of what I was able to make in just three weeks. I really value all the lessons I learned this summer and I know that I will be using them again in the future. If you scroll below, you can see my journey working on this project and how I was able to tackle the problems I ran into. 
 
@@ -29,7 +30,7 @@ I reached my final milestone! My goal for this milestone was to format all the c
 # Second Milestone
 
 I reached my second milestone today! I finished working on the software and writing the code on Visual Studio Code. I have made the components for the time/date, todo list, and photo album, but because of time constraints, I am not going to be making the music player and text notifications components. If I have extra time after finishing my third milestone, I will add the music component. Writing the todo list code was the most difficult because I had to connect the API to my google calendar. However, the other two, time/date and photo album, were much easier. The layout of the monitor is similar to my sketch, and I am ready to place all of my parts together and finish my third milestone soon.
-
+-->
 Closeup Picture
 <html>
 <img src="IMG-5785.JPG">
