@@ -30,13 +30,15 @@ I reached my final milestone! My goal for this milestone was to format all the c
 # Second Milestone
 
 I reached my second milestone today! I finished working on the software and writing the code on Visual Studio Code. I have made the components for the time/date, todo list, and photo album, but because of time constraints, I am not going to be making the music player and text notifications components. If I have extra time after finishing my third milestone, I will add the music component. Writing the todo list code was the most difficult because I had to connect the API to my google calendar. However, the other two, time/date and photo album, were much easier. The layout of the monitor is similar to my sketch, and I am ready to place all of my parts together and finish my third milestone soon.
--->
+
+
+
+[![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289614/video_to_markdown/images/youtube--0PfWPwV4eSk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0PfWPwV4eSk "Milestone 2 Video")-->
+
 Closeup Picture
 <html>
 <img src="IMG-5785.JPG">
 </html>
-
-[![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289614/video_to_markdown/images/youtube--0PfWPwV4eSk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0PfWPwV4eSk "Milestone 2 Video")
 
 
 # First Milestone
