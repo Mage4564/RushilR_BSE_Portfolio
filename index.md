@@ -3,7 +3,7 @@ I am utilizing ESP32 Pico as well as several provided components including: IR T
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Rushil R | Los Altos High SChool | Computer Science & Engineeing| Rising Junior
+| Rushil R | Los Altos High School | Computer Science & Engineeing| Rising Junior
 
 <!--
 # Reflection
