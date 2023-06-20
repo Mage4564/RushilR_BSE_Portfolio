@@ -42,7 +42,8 @@ Picture of Arduino Contraption
 <html>
 <img src="PXL_20230619_211753634.MP.jpg">
 </html>
-
+Milestone II Video:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vNwp13OvMRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # First Milestone
 
 I have reached my first milestone! This milestone involved the creation of my first ever screen on the smartwatch, a simple stopwatch. Before reaching this milestone, I had to set up the M5Stick Plus with an ESP32 Pico Kit installed. I first had to burn the ESP32 Pico, which enabled me to connect it to the wifi and the UIFlow Interface. This allowed me to code the stopwatch. In this stopwatch, we have three functions: Restart, Start, and Stop. Through the different types of button presses, I was able to code all of those three functions to one singular button on the Stick C. First, a singular press either Starts/Stops it depending on if the stopwatch is currently counting or not. Secondly, a longer press restarts the stopwatch to 0. Overall, I am proud of how far I have come in terms of being knowledgeable about how to code the M5Stick
