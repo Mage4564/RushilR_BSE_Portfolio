@@ -36,17 +36,17 @@ I reached my second milestone today! I finished working on the software and writ
 [![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289614/video_to_markdown/images/youtube--0PfWPwV4eSk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0PfWPwV4eSk "Milestone 2 Video")-->
 # Second Milestone
 
-I reached my second milestone today! This milestone was marked by the completion of a couple of steps that are crucial to the development of a smartwatch, as well as some auxiliary features. Firstly, I developed a multiscreen capability within the watch, enabling the user to switch screens with the push of a button. This functionality enabled me to add a home screen to my watch, which included items necessary for a watch, such as date and time. To test this I created a simple Arduino Infared detection machine. I have added a video of this functionality working below, as well as a picture of the arduino contraption. Finally, I added an auxiliary feature which I believe is awesome with watches, a built-in TV Remote. In the next milestone, I want to add a step counter, as it is a feature I enjoyed with my old FitBit.
-
 Picture of Arduino Contraption
 <html>
 <img src="PXL_20230619_211753634.MP.jpg">
 </html>
 Milestone II Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vNwp13OvMRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-# First Milestone
 
-I have reached my first milestone! This milestone involved the creation of my first ever screen on the smartwatch, a simple stopwatch. Before reaching this milestone, I had to set up the M5Stick Plus with an ESP32 Pico Kit installed. I first had to burn the ESP32 Pico, which enabled me to connect it to the wifi and the UIFlow Interface. This allowed me to code the stopwatch. In this stopwatch, we have three functions: Restart, Start, and Stop. Through the different types of button presses, I was able to code all of those three functions to one singular button on the Stick C. First, a singular press either Starts/Stops it depending on if the stopwatch is currently counting or not. Secondly, a longer press restarts the stopwatch to 0. Overall, I am proud of how far I have come in terms of being knowledgeable about how to code the M5Stick
+I reached my second milestone today! This milestone was marked by the completion of a couple of steps that are crucial to the development of a smartwatch, as well as some auxiliary features. Firstly, I developed a multiscreen capability within the watch, enabling the user to switch screens with the push of a button. This functionality enabled me to add a home screen to my watch, which included items necessary for a watch, such as date and time. To test this I created a simple Arduino Infared detection machine. I have added a video of this functionality working below, as well as a picture of the arduino contraption. Finally, I added an auxiliary feature which I believe is awesome with watches, a built-in TV Remote. In the next milestone, I want to add a step counter, as it is a feature I enjoyed with my old FitBit.
+
+
+# First Milestone
 
 Milestone I Video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIY-Y0Lh2Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -56,10 +56,16 @@ In-depth picture:
 <img src="PXL_20230615_155954206.MP.jpg">
 </html>
 
+I have reached my first milestone! This milestone involved the creation of my first ever screen on the smartwatch, a simple stopwatch. Before reaching this milestone, I had to set up the M5Stick Plus with an ESP32 Pico Kit installed. I first had to burn the ESP32 Pico, which enabled me to connect it to the wifi and the UIFlow Interface. This allowed me to code the stopwatch. In this stopwatch, we have three functions: Restart, Start, and Stop. Through the different types of button presses, I was able to code all of those three functions to one singular button on the Stick C. First, a singular press either Starts/Stops it depending on if the stopwatch is currently counting or not. Secondly, a longer press restarts the stopwatch to 0. Overall, I am proud of how far I have come in terms of being knowledgeable about how to code the M5Stick
+
+
+
 
 # Starter Project
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pBVsiNEepwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I finished my starter project! This project involved building an alarm clock from the basic instructions and materials provided. This project involved a lot of soldering as many of the components needed to be soldered onto the PCB in order for it to work. I found building this alarm clock to be extremely fun, as it was a big relief once it worked on the first attempt. I also found it interesting how each part has a function, and even the smallest parts can contribute mainly to the final functionality. As this was my first time soldering for a project, I am incredibly proud of myself for finishing the project with a high degree of quality.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pBVsiNEepwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
