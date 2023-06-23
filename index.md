@@ -72,7 +72,8 @@ I finished my starter project! This project involved building an alarm clock fro
 
 # Code
 
-`from m5stack import *
+```
+from m5stack import *
 from m5ui import *
 from uiflow import *
 import ntptime
@@ -264,6 +265,12 @@ average = 1.1
 count = average / 10
 oldState = False
 state = False
-`
+```
+
+# Bill of Materials
+|**Part**| **Purpouse** | **Price** | **Link**|
+| MStick C Plus| Act as actual computer for the smart watch| $19.95 | <a href="https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit"> Link <\a>|
+|||||
+| GPS | Enable GPS Capability for the MStick C Plus | $11.95 | <a href="https://docs.m5stack.com/en/core/m5stickc_plus"> Link <\a>|
 
 
