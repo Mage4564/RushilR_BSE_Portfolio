@@ -1,3 +1,5 @@
+
+
 # Smart Watch Project
 I am utilizing ESP32 Pico as well as several provided components including: IR Transmitter/Reciever, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several features.
 
@@ -67,5 +69,201 @@ I have reached my first milestone! This milestone involved the creation of my fi
 
 I finished my starter project! This project involved building an alarm clock from the basic instructions and materials provided. This project involved a lot of soldering as many of the components needed to be soldered onto the PCB in order for it to work. I found building this alarm clock to be extremely fun, as it was a big relief once it worked on the first attempt. I also found it interesting how each part has a function, and even the smallest parts can contribute mainly to the final functionality. As this was my first time soldering for a project, I am incredibly proud of myself for finishing the project with a high degree of quality.
 
+
+# Code
+
+`from m5stack import *
+from m5ui import *
+from uiflow import *
+import ntptime
+from easyIO import *
+import time
+import unit
+
+
+setScreenColor(0x000000)
+gps_0 = unit.get(unit.GPS, unit.PORTA)
+
+
+total = None
+accX = None
+Screen = None
+accY = None
+accZ = None
+acceleration = None
+stoppedTimer = None
+average = None
+Hours = None
+count = None
+width = None
+state = None
+Minutes = None
+oldState = None
+Steps = None
+Seconds = None
+currMilli = None
+
+
+
+triangle0 = M5Triangle(65, 90, 41, 115, 92, 115, 0xFFFFFF, 0xFFFFFF)
+currentTime = M5TextBox(78, 54, "00:00", lcd.FONT_DejaVu24, 0xFFFFFF, rotate=90)
+triangle1 = M5Triangle(65, 50, 40, 75, 91, 75, 0xFFFFFF, 0xFFFFFF)
+triangle2 = M5Triangle(65, 7, 39, 32, 90, 32, 0xFFFFFF, 0xFFFFFF)
+battery = M5TextBox(130, 200, "label0", lcd.FONT_Default, 0xffffff, rotate=90)
+label0 = M5TextBox(130, 0, "label0", lcd.FONT_DejaVu40, 0xFFFFFF, rotate=90)
+Step = M5TextBox(100, 75, "0", lcd.FONT_DejaVu72, 0xFFFFFF, rotate=90)
+label1 = M5TextBox(41, 92, "label1", lcd.FONT_DejaVu24, 0xFFFFFF, rotate=90)
+
+from numbers import Number
+
+
+# Describe this function...
+def renderStopwatch():
+  global total, accX, Screen, accY, accZ, acceleration, stoppedTimer, average, Hours, count, width, state, Minutes, oldState, Steps, Seconds, currMilli
+  lcd.clear()
+  lcd.fill(0x000000)
+  loadBattery()
+  circle0 = M5Circle(55, 70, 6, 0xFFFFFF, 0xFFFFFF)
+  circle1 = M5Circle(85, 70, 6, 0xFFFFFF, 0xFFFFFF)
+  circle2 = M5Circle(55, 150, 6, 0xFFFFFF, 0xFFFFFF)
+  circle3 = M5Circle(85, 150, 6, 0xFFFFFF, 0xFFFFFF)
+
+  Hour = M5TextBox(90, 13, "00", lcd.FONT_DejaVu40, 0xFFFFFF, rotate=90)
+  Minute = M5TextBox(90, 92, "00", lcd.FONT_DejaVu40, 0xFFFFFF, rotate=90)
+  Second = M5TextBox(90, 173, "00", lcd.FONT_DejaVu40, 0xffffff, rotate=90)
+
+
+  stoppedTimer = True
+  Hours = 0
+  Minutes = 0
+  Seconds = 0
+  currMilli = 0
+  while Screen == 1:
+    wait(0.1)
+    currMilli = (currMilli if isinstance(currMilli, Number) else 0) + 0.1
+    if btnA.isPressed():
+      homePressed()
+      break
+    else:
+      if btnB.isPressed():
+        wait(0.01)
+        if stoppedTimer == True:
+          stoppedTimer = False
+        else:
+          stoppedTimer = True
+      if Seconds >= 59:
+        Minutes = (Minutes if isinstance(Minutes, Number) else 0) + 1
+        Seconds = -1
+        if Minutes >= 59:
+          Hours = (Hours if isinstance(Hours, Number) else 0) + 1
+          Minutes = 0
+          if Hours >= 24:
+            Hours = 0
+            Minutes = 0
+            Seconds = 0
+      if stoppedTimer == False:
+        if currMilli >= 1:
+          Seconds = (Seconds if isinstance(Seconds, Number) else 0) + 1
+          currMilli = 0
+      Hour.setText(str("{0:0=2d}".format(Hours)))
+      Minute.setText(str("{0:0=2d}".format(Minutes)))
+      Second.setText(str("{0:0=2d}".format(Seconds)))
+
+# Describe this function...
+def renderTVRemote():
+  global total, accX, Screen, accY, accZ, acceleration, stoppedTimer, average, Hours, count, width, state, Minutes, oldState, Steps, Seconds, currMilli
+  lcd.clear()
+  lcd.fill(0x000000)
+  loadBattery()
+  while Screen == 3:
+    if btnB.isPressed():
+      M5Led.on()
+      triangle0.setBgColor(0xff0000)
+      wait_ms(100)
+      triangle1.setBgColor(0xff0000)
+      wait_ms(100)
+      triangle2.setBgColor(0xff0000)
+      irCodes= [19, 618, 644 , 56, 60, 587 , 37, 178, 30, 556, 9, 702, 774, 93, 217, 448]
+      for i in range(len(irCodes)):
+        ir.tx(0xE0E040BF, irCodes[i])
+      triangle2.setBgColor(0x000000)
+      wait_ms(100)
+      triangle1.setBgColor(0x000000)
+      wait_ms(100)
+      triangle0.setBgColor(0x000000)
+      M5Led.off()
+    else:
+      wait_ms(100)
+      if btnA.isPressed():
+        homePressed()
+        break
+
+# Describe this function...
+def loadBattery():
+  global total, accX, Screen, accY, accZ, acceleration, stoppedTimer, average, Hours, count, width, state, Minutes, oldState, Steps, Seconds, currMilli
+  battery.setColor(0xffffff)
+  battery.setText(str(map_value((axp.getBatVoltage()), 3.7, 4.1, 0, 100)))
+
+# Describe this function...
+def renderHome():
+  global total, accX, Screen, accY, accZ, acceleration, stoppedTimer, average, Hours, count, width, state, Minutes, oldState, Steps, Seconds, currMilli
+  lcd.clear()
+  lcd.fill(0x000000)
+  loadBattery()
+  currentTime.setColor(0xffffff)
+  label0.setColor(0xffffff)
+  label1.setColor(0xffffff)
+  label0.setText(str(ntp.weekday()))
+  label1.setText(str(ntp.formatDate('-')))
+  currentTime.setText(str(ntp.formatTime(':')))
+  while Screen == 2:
+    if btnA.isPressed():
+      homePressed()
+      break
+    else:
+      currentTime.setText(str(ntp.formatTime(':')))
+
+# Describe this function...
+def renderStepCounter():
+  global total, accX, Screen, accY, accZ, acceleration, stoppedTimer, average, Hours, count, width, state, Minutes, oldState, Steps, Seconds, currMilli
+  lcd.clear()
+  lcd.fill(0x000000)
+  Step.setColor(0xffffff)
+  loadBattery()
+  while Screen == 4:
+    label0.setText('Speed')
+    Step.setText(str(gps_0.speed_kph))
+    wait(0.1)
+    if btnA.isPressed():
+      homePressed()
+      break
+
+# Describe this function...
+def homePressed():
+  global total, accX, Screen, accY, accZ, acceleration, stoppedTimer, average, Hours, count, width, state, Minutes, oldState, Steps, Seconds, currMilli
+  Screen = (Screen if isinstance(Screen, Number) else 0) + 1
+  if Screen == 1:
+    renderStopwatch()
+  if Screen == 2:
+    renderHome()
+  if Screen == 3:
+    renderTVRemote()
+  if Screen == 4:
+    renderStepCounter()
+  if Screen > 4:
+    Screen = 1
+    renderStopwatch()
+
+
+
+ntp = ntptime.client(host='us.pool.ntp.org', timezone=(-7))
+loadBattery()
+Screen = 2
+renderHome()
+average = 1.1
+count = average / 10
+oldState = False
+state = False
+`
 
 
