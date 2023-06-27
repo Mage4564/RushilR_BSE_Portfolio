@@ -52,6 +52,7 @@ Demonstration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kqAD4AKiqZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Milestone III Video:
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhJolwuPPM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 I reached my Third Milestone today. After deciding to utilize much more hardware with my time at Bluestamp, I proposed creating a bike generator to Claudia. This milestone of my project entails actually generating power from the bike. I accomplished this by attaching two motors to a brace which takes power directly from the wheel. I also implemented four holes which allow the brace to be attached directly using zip ties. Highest power output is 1.4V. 
