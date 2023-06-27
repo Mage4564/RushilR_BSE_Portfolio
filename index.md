@@ -1,11 +1,11 @@
 
 
 # Smart Watch Project
-I am utilizing ESP32 Pico as well as several provided components including: IR Transmitter/Reciever, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several features.
+I am utilizing ESP32 Pico as well as several provided components including: IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several features.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Rushil R | Los Altos High School | Computer Science & Engineeing| Rising Junior
+| Rushil R | Los Altos High School | Computer Science & Engineering| Rising Junior
 
 <!--
 # Reflection
@@ -40,7 +40,18 @@ I reached my second milestone today! I finished working on the software and writ
 Milestone III Video:
 
 
-I reached my Third Milestone today. After deciding to utilize a lot more hardware with my time at Bluestamp, I proposed creating a bike generator to Claudia. This milestone of my project entails actually generating power from the bike. I accomplished this by attaching two motors to a brace which takes power directly from the wheel. I also implemented four holes which allow the brace to be attached directly using zip ties. Highest power output 1.4V. 
+I reached my Third Milestone today. After deciding to utilize much more hardware with my time at Bluestamp, I proposed creating a bike generator to Claudia. This milestone of my project entails actually generating power from the bike. I accomplished this by attaching two motors to a brace which takes power directly from the wheel. I also implemented four holes which allow the brace to be attached directly using zip ties. Highest power output is 1.4V. 
+
+3D Views: 
+<html>
+<img src="Screenshot 2023-06-27 094552.jpg">
+</html>
+<html>
+<img src="rightViewofBrace.jpg">
+</html>
+<html>
+<img src="Front View.jpg">
+</html>
 
 3D Model of Brace: 
 
