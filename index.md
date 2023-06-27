@@ -52,14 +52,16 @@ I reached my Third Milestone today. After deciding to utilize much more hardware
 <html>
 <img src="Front View.jpg">
 </html>
+Demonstration:
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/kqAD4AKiqZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]
 
-3D Model of Brace: 
 
 
 # Second Milestone
 
 Milestone II Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vNwp13OvMRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[<iframe width="560" height="315" src="https://www.youtube.com/embed/vNwp13OvMRc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](https://youtube.com/shorts/kqAD4AKiqZA?feature=share
+)
 
 Picture of Arduino Contraption
 <html>
@@ -67,7 +69,7 @@ Picture of Arduino Contraption
 </html>
 
 
-I reached my second milestone today! This milestone was marked by the completion of a couple of steps that are crucial to the development of a smartwatch, as well as some auxiliary features. Firstly, I developed a multiscreen capability within the watch, enabling the user to switch screens with the push of a button. This functionality enabled me to add a home screen to my watch, which included items necessary for a watch, such as date and time. To test this I created a simple Arduino Infared detection machine. I have added a video of this functionality working below, as well as a picture of the arduino contraption. Finally, I added an auxiliary feature which I believe is awesome with watches, a built-in TV Remote. In the next milestone, I want to add a step counter, as it is a feature I enjoyed with my old FitBit.
+I reached my second milestone today! This milestone was marked by the completion of a couple of steps that are crucial to the development of a smartwatch, as well as some auxiliary features. Firstly, I developed a multiscreen capability within the watch, enabling the user to switch screens with the push of a button. This functionality enabled me to add a home screen to my watch, which included items necessary for a watch, such as date and time. To test this, I created a simple Arduino Infared detection machine. I have added a video of this functionality working below, as well as a picture of the Arduino contraption. Finally, I added an auxiliary feature which is awesome with watches, a built-in TV Remote. In the next milestone, I want to add a step counter, as it is a feature I enjoyed with my old FitBit.
 
 
 # First Milestone
