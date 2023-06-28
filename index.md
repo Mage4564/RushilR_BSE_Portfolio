@@ -1,12 +1,13 @@
 
 
 # Smart Watch Project
-I am utilizing ESP32 Pico as well as several provided components including: IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several features.
+I am utilizing ESP32 Pico as well as several provided components including: IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several features. In addition, I decided to build a Bicycle Generator. This second project allows me to harvest electricity from the motion of the wheel which turns as power is generated from my legs.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Rushil R | Los Altos High School | Computer Science & Engineering| Rising Junior
 
+![Headstone Image](logo.svg)
 <!--
 # Reflection
 My time at BlueStamp was both fun and extremely informative. I learned so many new things from what a Rasperry Pi is and to how to use an API. Although I did not get to finish everything that I had planned for my Smart Mirror project, I learned so much and I'm very proud of what I was able to make in just three weeks. I really value all the lessons I learned this summer and I know that I will be using them again in the future. If you scroll below, you can see my journey working on this project and how I was able to tackle the problems I ran into. 
@@ -295,9 +296,10 @@ state = False
 ```
 
 # Bill of Materials
-|**Part**| **Purpouse** | **Price** | **Link**|
-| MStick C Plus| Act as actual computer for the smart watch| $19.95 | <a href="https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit"> Link <\a>|
-|||||
-| GPS | Enable GPS Capability for the MStick C Plus | $11.95 | <a href="https://docs.m5stack.com/en/core/m5stickc_plus"> Link <\a>|
 
+| **Part** | **Note** | **Price** | **Link** |
+|:--:|:--:|:--:|:--:|
+| MStick C Plus| Act as actual computer for the smart watch | $19.95 | <a href="https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit"> Link </a> |
+| GPS | Enable GPS Capability for the MStick C Plus | $11.95 | <a href="https://docs.m5stack.com/en/core/m5stickc_plus"> Link <\a>|
+| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
