@@ -300,6 +300,6 @@ state = False
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | MStick C Plus| Act as actual computer for the smart watch | $19.95 | <a href="https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit"> Link </a> |
-| GPS | Enable GPS Capability for the MStick C Plus | $11.95 | <a href="https://docs.m5stack.com/en/core/m5stickc_plus"> Link <\a>|
+| GPS | Enable GPS Capability for the MStick C Plus | $11.95 | <a href="https://shop.m5stack.com/products/mini-gps-bds-unit"> Link <\a> |
 | Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
