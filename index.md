@@ -25,19 +25,11 @@ Base Code Design
 </html>
 
 
-# Final Milestone
-I reached my final milestone! My goal for this milestone was to format all the components on the screen in a visually aesthetic way, following the sketch I had previously made, and glue the physical peices of the mirror together. I was able to experiment with colors, fonts, and sizes until I was finally satisfied with how it looked. Unfortunately, I was not able to glue the mirror onto the monitor before my 3 weeks at BlueStamp was over. However, I am planning to finish that up and work on some additional components for my smart mirror as well. The components I want to add are the music player and text notification. With all the knowledge I gained at BlueStamp, I feel confident in my ability to keep improving the smart mirror. In the video below, I will be presenting my Smart Mirror, explaining my journey working on this project, and talking about this final milestone. Thank you so much for following me on this journey!
-
-[![Demo Night Vid](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289700/video_to_markdown/images/youtube--_TTp9rQcXJg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_TTp9rQcXJg&t=4s "Demo Night Vid") -->
-
-# Second Milestone
-
-I reached my second milestone today! I finished working on the software and writing the code on Visual Studio Code. I have made the components for the time/date, todo list, and photo album, but because of time constraints, I am not going to be making the music player and text notifications components. If I have extra time after finishing my third milestone, I will add the music component. Writing the todo list code was the most difficult because I had to connect the API to my google calendar. However, the other two, time/date and photo album, were much easier. The layout of the monitor is similar to my sketch, and I am ready to place all of my parts together and finish my third milestone soon.
-
-
-
-[![Milestone 2 Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289614/video_to_markdown/images/youtube--0PfWPwV4eSk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=0PfWPwV4eSk "Milestone 2 Video")-->
 # Third Milestone 
+
+Milestone III Video:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jhJolwuPPM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 3D Views: 
 <html>
@@ -52,13 +44,9 @@ I reached my second milestone today! I finished working on the software and writ
 Demonstration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kqAD4AKiqZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Milestone III Video:
+I reached my Third Milestone today. After deciding to utilize much more hardware with my time at Bluestamp, I proposed creating a bike generator for approval. This milestone of my project entails generating power from the bike. This project involved the design and development of a Bicycle Generator utilizing a custom-built mount, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster. Extensive research was conducted, including reviewing YouTube videos that showcased various methods, including the use of car batteries and alternators. However, safety concerns and the need for compatibility led to the decision of not to use car alternators and batteries.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jhJolwuPPM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-I reached my Third Milestone today. After deciding to utilize much more hardware with my time at Bluestamp, I proposed creating a bike generator for approval. This milestone of my project entails generating power from the bike. This project involved the design and development of a Bicycle Generator utilizing a custom-built mount, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster. Extensive research was conducted, including reviewing YouTube videos that showcased various methods, including the use of car batteries and alternators. However, safety concerns and the need for compatibility led to the decision of not using car alternators and batteries.
-
-The research process involved evaluating different designs and gathering insights from YouTube videos. While videos demonstrated the use of car batteries and alternators, safety concerns arose due to their incompatibility with lower RPMs and potential electrical hazards. To ensure safety and optimize performance, the project team selected components specifically designed for bicycle power generation. The final design incorporated a custom mount, high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster, providing a portable, efficient, and safe Bicycle Generator system.
+The research process involved evaluating different designs and gathering insights from YouTube videos. While videos demonstrated the use of car batteries and alternators, safety concerns arose due to their incompatibility with lower RPMs and potential electrical hazards. To ensure safety and optimize performance, I selected components specifically designed for bicycle power generation. The final design incorporated a custom mount for the motors, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster, providing a portable, efficient, and safe Bicycle Generator system.
 
 
 
