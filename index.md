@@ -8,20 +8,7 @@ I am utilizing ESP32 Pico as well as several provided components including IR Tr
 | Rushil R | Los Altos High School | Computer Science & Engineering| Rising Junior
 
 <html>
-<img src="Rushil-Headshot.png">
-</html>
-<!-- # Reflection
-My time at BlueStamp was both fun and extremely informative. I learned so many new things from what a Rasperry Pi is and to how to use an API. Although I did not get to finish everything that I had planned for my Smart Mirror project, I learned so much and I'm very proud of what I was able to make in just three weeks. I really value all the lessons I learned this summer and I know that I will be using them again in the future. If you scroll below, you can see my journey working on this project and how I was able to tackle the problems I ran into. 
-
- Smart Mirror Monitor  
-Final Design
-<html>
-<img src="IMG-7354.JPG">
-</html>
-
-Base Code Design
-<html>
-<img src="IMG-5785.JPG">
+<img src="Rushil-Headshot.png" width="200" height="400">
 </html>
 
 
