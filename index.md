@@ -1,14 +1,14 @@
 
 
 # Smart Watch Project & Bicycle Generator
-I am utilizing ESP32 Pico as well as several provided components including IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini-computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several feature. In addition, I decided to build a Bicycle Generator to charge my Smartwatch. This second project allows me to harvest electricity from the wheel's motion which turns as power is generated from my legs.
+I am utilizing ESP32 Pico as well as several provided components, including IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini-computer that can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several feature. In addition, I decided to build a Bicycle Generator to charge my Smartwatch. This second project allows me to harvest electricity from the wheel's motion which turns as power is generated from my legs.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Rushil R | Los Altos High School | Computer Science & Engineering| Rising Junior
 
 <html>
-<img src="Rushil-Headshot.png" width="200" height="400">
+<img src="Rushil-Headshot.png" width="400" height="400">
 </html>
 
 
