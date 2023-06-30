@@ -15,6 +15,29 @@ I am utilizing ESP32 Pico as well as several provided components, including IR T
 
 Milestone IV Video:
 
+Wheel and Stationary Bike Stand:
+<html>
+<img src="PXL_20230630_230027655.MP.jpg">
+</html>
+
+Final Generator Design:
+<html>
+<img src="PXL_20230629_184443550.MP.jpg">
+</html>
+
+Generator Attached to Bike:
+<html>
+<img src="PXL_20230629_205923500.MP.jpg">
+</html>
+
+Full Bike Picture:
+<html>
+<img src="PXL_20230629_205919714.MP.jpg">
+</html>
+
+For my final milestone, I optimized my bike generator as much as possible. This involved the design and development of a Bicycle Generator utilizing a custom-built mount, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster. Extensive research was conducted, including reviewing YouTube videos that showcased various methods, including the use of car batteries and alternators. However, safety concerns and the need for compatibility led to the decision of not to use car alternators and batteries.
+
+The research process involved evaluating different designs and gathering insights from YouTube videos. While videos demonstrated the use of car batteries and alternators, safety concerns arose due to their incompatibility with lower RPMs and potential electrical hazards. To ensure safety and optimize performance, I selected components specifically designed for bicycle power generation. The final design incorporated a custom mount for the motors, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster, providing a portable, efficient, and safe Bicycle Generator system.
 
 # Third Milestone 
 
@@ -41,11 +64,9 @@ Motor Attached to Brace:
 Demonstration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kqAD4AKiqZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-I reached my Third Milestone today. After deciding to utilize much more hardware with my time at Bluestamp, I proposed creating a bike generator for approval. This milestone of my project entails generating power from the bike. This project involved the design and development of a Bicycle Generator utilizing a custom-built mount, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster. Extensive research was conducted, including reviewing YouTube videos that showcased various methods, including the use of car batteries and alternators. However, safety concerns and the need for compatibility led to the decision of not to use car alternators and batteries.
+I reached my Third Milestone today.
 
-The research process involved evaluating different designs and gathering insights from YouTube videos. While videos demonstrated the use of car batteries and alternators, safety concerns arose due to their incompatibility with lower RPMs and potential electrical hazards. To ensure safety and optimize performance, I selected components specifically designed for bicycle power generation. The final design incorporated a custom mount for the motors, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster, providing a portable, efficient, and safe Bicycle Generator system.
-
-
+During the third milestone, I 3D printed a custom mount to integrate two small motors onto my bicycle wheel for energy harvesting. However, I encountered challenges with the durability of the motors' tabs, which kept snapping off during initial testing. After iterative adjustments and material experimentation, I reinforced the tabs to withstand the forces and vibrations of operation. Additionally, the CAD design process for the mount proved complex, requiring precise measurements and multiple test prints to ensure stability and compatibility with my bike's unique structure. Overcoming the issue of snapping tabs by reinforcing their durability was a significant challenge. The CAD design process was also intricate, requiring careful adjustments and test prints to achieve stability and compatibility. These achievements set the foundation for further development of the Bicycle Generator project.
 
 
 # Second Milestone
