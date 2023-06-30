@@ -8,7 +8,7 @@ I am utilizing ESP32 Pico as well as several provided components, including IR T
 | Rushil R | Los Altos High School | Computer Science & Engineering| Rising Junior
 
 <html>
-<img src="Rushil-Headshot.png" width="400" height="400">
+<img src="Rushil-Headshot.png" width="300" height="400">
 </html>
 
 # Fourth Milestone
@@ -35,9 +35,7 @@ Full Bike Picture:
 <img src="PXL_20230629_205919714.MP.jpg">
 </html>
 
-For my final milestone, I optimized my bike generator as much as possible. This involved the design and development of a Bicycle Generator utilizing a custom-built mount, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster. Extensive research was conducted, including reviewing YouTube videos that showcased various methods, including the use of car batteries and alternators. However, safety concerns and the need for compatibility led to the decision of not to use car alternators and batteries.
-
-The research process involved evaluating different designs and gathering insights from YouTube videos. While videos demonstrated the use of car batteries and alternators, safety concerns arose due to their incompatibility with lower RPMs and potential electrical hazards. To ensure safety and optimize performance, I selected components specifically designed for bicycle power generation. The final design incorporated a custom mount for the motors, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster, providing a portable, efficient, and safe Bicycle Generator system.
+For my final milestone, I optimized my bike generator as much as possible. This involved the design and development of a Bicycle Generator utilizing a custom-built mount, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster. Extensive research was conducted, including reviewing YouTube videos that showcased various methods, including the use of car batteries and alternators. However, safety concerns and the need for compatibility led to the decision to not to use car alternators and batteries. The research process involved evaluating different designs and gathering insights from YouTube videos. While videos demonstrated the use of car batteries and alternators, safety concerns arose due to their incompatibility with lower RPMs and potential electrical hazards. To ensure safety and optimize performance, I selected components specifically designed for bicycle power generation. Finally, I also added "fans" to the spokes of the tire. This allowed me to simulate some sort of additional resistance on the wheel and give a more familiar feel to those who ride it. The final design incorporated a custom mount for the motors, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster, providing a portable, efficient, and safe Bicycle Generator system.
 
 # Third Milestone 
 
@@ -313,5 +311,5 @@ state = False
 | Wood Screws | Holding Wood Together| $5.29 | <a href="https://www.amazon.com/Hillman-Group-47665-Drywall-Phillips/dp/B003W93800/ref=asc_df_B003W93800/?tag=hyprod-20&linkCode=df0&hvadid=167128911295&hvpos=&hvnetw=g&hvrand=15553456031409296407&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-310106512028&psc=1"> Link </a> |
 | Bike | Bike | $348 | <a href="https://www.walmart.com/ip/Decathlon-Rockrider-ST50-21-Speed-Aluminum-Mountain-Bike-26-Unisex-Black-Small/867503072?wmlspartner=wlpa&selectedSellerId=0&adid=22222222227000000000&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=pla-51320962143&wl5=9032171&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=867503072&veh=sem&gclid=Cj0KCQjw1_SkBhDwARIsANbGpFv81HYpm2nDSU-Xtl1g5NPh5N1mXWtz-GzYoDLZg4MIYTpKHmcZK30aAhO-EALw_wcB"> Link </a> |
 | High Torque Motor x2| Generating Electricity | $104 | <a href="https://www.digikey.com/en/products/detail/pololu-corporation/4758/11586926"> Link </a> |
-| Bike Pegs| What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+| Bike Pegs| Allowing the Bike to attach to the stand| $9.99 | <a href="https://www.amazon.com/Aluminum-Anti-Skid-Bicycle-Mountain-Cycling/dp/B0BCL2LBSX/ref=sr_1_10?keywords=bike+peg&qid=1688059547&sr=8-10"> Link </a> |
 
