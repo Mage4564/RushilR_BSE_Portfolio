@@ -11,6 +11,10 @@ I am utilizing ESP32 Pico as well as several provided components, including IR T
 <img src="Rushil-Headshot.png" width="400" height="400">
 </html>
 
+# Fourth Milestone
+
+Milestone IV Video:
+
 
 # Third Milestone 
 
@@ -28,6 +32,12 @@ Milestone III Video:
 <html>
 <img src="Front View.jpg">
 </html>
+Motor Attached to Brace:
+<html>
+<img src="PXL_20230627_160250978.MP.JPG">
+</html>
+
+
 Demonstration:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kqAD4AKiqZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
