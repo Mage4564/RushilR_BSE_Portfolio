@@ -1,7 +1,7 @@
 
 
-# Smart Watch Project
-I am utilizing ESP32 Pico as well as several provided components including: IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several features. In addition, I decided to build a Bicycle Generator. This second project allows me to harvest electricity from the motion of the wheel which turns as power is generated from my legs.
+# Smart Watch Project 
+I am utilizing ESP32 Pico as well as several provided components including IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini-computer which can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several feature. In addition, I decided to build a Bicycle Generator to charge my Smartwatch. This second project allows me to harvest electricity from the wheel's motion which turns as power is generated from my legs.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -10,11 +10,10 @@ I am utilizing ESP32 Pico as well as several provided components including: IR T
 <html>
 <img src="Rushil-Headshot.png">
 </html>
-<!--
-# Reflection
+<!-- # Reflection
 My time at BlueStamp was both fun and extremely informative. I learned so many new things from what a Rasperry Pi is and to how to use an API. Although I did not get to finish everything that I had planned for my Smart Mirror project, I learned so much and I'm very proud of what I was able to make in just three weeks. I really value all the lessons I learned this summer and I know that I will be using them again in the future. If you scroll below, you can see my journey working on this project and how I was able to tackle the problems I ran into. 
 
-# Smart Mirror Monitor  
+ Smart Mirror Monitor  
 Final Design
 <html>
 <img src="IMG-7354.JPG">
@@ -29,8 +28,7 @@ Base Code Design
 # Final Milestone
 I reached my final milestone! My goal for this milestone was to format all the components on the screen in a visually aesthetic way, following the sketch I had previously made, and glue the physical peices of the mirror together. I was able to experiment with colors, fonts, and sizes until I was finally satisfied with how it looked. Unfortunately, I was not able to glue the mirror onto the monitor before my 3 weeks at BlueStamp was over. However, I am planning to finish that up and work on some additional components for my smart mirror as well. The components I want to add are the music player and text notification. With all the knowledge I gained at BlueStamp, I feel confident in my ability to keep improving the smart mirror. In the video below, I will be presenting my Smart Mirror, explaining my journey working on this project, and talking about this final milestone. Thank you so much for following me on this journey!
 
-[![Demo Night Vid](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289700/video_to_markdown/images/youtube--_TTp9rQcXJg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_TTp9rQcXJg&t=4s "Demo Night Vid")
-
+[![Demo Night Vid](https://res.cloudinary.com/marcomontalbano/image/upload/v1628289700/video_to_markdown/images/youtube--_TTp9rQcXJg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=_TTp9rQcXJg&t=4s "Demo Night Vid") -->
 
 # Second Milestone
 
@@ -58,7 +56,9 @@ Milestone III Video:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jhJolwuPPM4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-I reached my Third Milestone today. After deciding to utilize much more hardware with my time at Bluestamp, I proposed creating a bike generator to Claudia. This milestone of my project entails actually generating power from the bike. I accomplished this by attaching two motors to a brace which takes power directly from the wheel. I also implemented four holes which allow the brace to be attached directly using zip ties. Highest power output is 1.4V. 
+I reached my Third Milestone today. After deciding to utilize much more hardware with my time at Bluestamp, I proposed creating a bike generator for approval. This milestone of my project entails generating power from the bike. This project involved the design and development of a Bicycle Generator utilizing a custom-built mount, modified high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster. Extensive research was conducted, including reviewing YouTube videos that showcased various methods, including the use of car batteries and alternators. However, safety concerns and the need for compatibility led to the decision of not using car alternators and batteries.
+
+The research process involved evaluating different designs and gathering insights from YouTube videos. While videos demonstrated the use of car batteries and alternators, safety concerns arose due to their incompatibility with lower RPMs and potential electrical hazards. To ensure safety and optimize performance, the project team selected components specifically designed for bicycle power generation. The final design incorporated a custom mount, high-torque motors, a direct wheel-wheel connection, and a 0.9-5V USB Port Step Up Booster, providing a portable, efficient, and safe Bicycle Generator system.
 
 
 
@@ -303,5 +303,9 @@ state = False
 |:--:|:--:|:--:|:--:|
 | MStick C Plus| Act as actual computer for the smart watch | $19.95 | <a href="https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit"> Link </a> |
 | GPS | Enable GPS Capability for the MStick C Plus | $11.95 | <a href="https://shop.m5stack.com/products/mini-gps-bds-unit"> Link <\a> |
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
+|2x4 Wood| Building Stationary Bike| $19.20 | <a href="https://www.lowes.com/pd/1-x-2-x-8-ft-Furring-Strip-Common-0-75-in-x-1-5-in-x-8-ft-Actual/1000427899?cm_mmc=shp-_-c-_-prd-_-lum-_-ggl-_-LIA_LUM_124_Structural-Lumber-_-1000427899-_-local-_-0-_-0&gclid=Cj0KCQjw1_SkBhDwARIsANbGpFtAd-we1lSvwaN78x59clr3OcGU8bmCRatfRCBO1pHcpH5e7rwH0V4aAtgXEALw_wcB&gclsrc=aw.ds"> Link </a> |
+| Wood Screws | Holding Wood Together| $5.29 | <a href="https://www.amazon.com/Hillman-Group-47665-Drywall-Phillips/dp/B003W93800/ref=asc_df_B003W93800/?tag=hyprod-20&linkCode=df0&hvadid=167128911295&hvpos=&hvnetw=g&hvrand=15553456031409296407&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-310106512028&psc=1"> Link </a> |
+| Bike | Bike | $348 | <a href="https://www.walmart.com/ip/Decathlon-Rockrider-ST50-21-Speed-Aluminum-Mountain-Bike-26-Unisex-Black-Small/867503072?wmlspartner=wlpa&selectedSellerId=0&adid=22222222227000000000&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=pla-51320962143&wl5=9032171&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=867503072&veh=sem&gclid=Cj0KCQjw1_SkBhDwARIsANbGpFv81HYpm2nDSU-Xtl1g5NPh5N1mXWtz-GzYoDLZg4MIYTpKHmcZK30aAhO-EALw_wcB"> Link </a> |
+| High Torque Motor x2| Generating Electricity | $104 | <a href="https://www.digikey.com/en/products/detail/pololu-corporation/4758/11586926"> Link </a> |
+| Bike Pegs| What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
 
