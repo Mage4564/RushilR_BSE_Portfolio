@@ -55,7 +55,7 @@ Milestone III Video:
 </html>
 Motor Attached to Brace:
 <html>
-<img src="PXL_20230627_160250978.MP.JPG">
+<img src="PXL_20230627_160250978.MP.jpg">
 </html>
 
 
