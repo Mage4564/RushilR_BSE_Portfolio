@@ -1,7 +1,7 @@
 
 
 # Smart Watch Project & Bicycle Generator
-I am utilizing ESP32 Pico as well as several provided components, including IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini-computer that can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several feature. In addition, I decided to build a Bicycle Generator to charge my Smartwatch. This second project allows me to harvest electricity from the wheel's motion which turns as power is generated from my legs.
+I am utilizing ESP32 Pico as well as several provided components, including an IR Transmitter/receiver, an LED, Buzzer, two buttons, as well as an LCD screen. This enables me to customize the ESP32 Pico to act as a mini-computer that can fit on my wrist. With proper coding, I am able to turn the ESP32 Pico into a functioning Smartwatch with several features. In addition, I decided to build a Bicycle Generator to charge my Smartwatch. This second project allows me to harvest electricity from the wheel's motion which turns as power is generated from my legs. This circuit then proceeds through a USB Step Up Booster allowing me to charge many devices
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -306,7 +306,7 @@ state = False
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | MStick C Plus| Act as actual computer for the smart watch | $19.95 | <a href="https://shop.m5stack.com/products/m5stickc-plus-esp32-pico-mini-iot-development-kit"> Link </a> |
-| GPS | Enable GPS Capability for the MStick C Plus | $11.95 | <a href="https://shop.m5stack.com/products/mini-gps-bds-unit"> Link <\a> |
+| GPS | Enable GPS Capability for the MStick C Plus | $11.95 | <a href="https://shop.m5stack.com/products/mini-gps-bds-unit"> Link </a> |
 |2x4 Wood| Building Stationary Bike| $19.20 | <a href="https://www.lowes.com/pd/1-x-2-x-8-ft-Furring-Strip-Common-0-75-in-x-1-5-in-x-8-ft-Actual/1000427899?cm_mmc=shp-_-c-_-prd-_-lum-_-ggl-_-LIA_LUM_124_Structural-Lumber-_-1000427899-_-local-_-0-_-0&gclid=Cj0KCQjw1_SkBhDwARIsANbGpFtAd-we1lSvwaN78x59clr3OcGU8bmCRatfRCBO1pHcpH5e7rwH0V4aAtgXEALw_wcB&gclsrc=aw.ds"> Link </a> |
 | Wood Screws | Holding Wood Together| $5.29 | <a href="https://www.amazon.com/Hillman-Group-47665-Drywall-Phillips/dp/B003W93800/ref=asc_df_B003W93800/?tag=hyprod-20&linkCode=df0&hvadid=167128911295&hvpos=&hvnetw=g&hvrand=15553456031409296407&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-310106512028&psc=1"> Link </a> |
 | Bike | Bike | $348 | <a href="https://www.walmart.com/ip/Decathlon-Rockrider-ST50-21-Speed-Aluminum-Mountain-Bike-26-Unisex-Black-Small/867503072?wmlspartner=wlpa&selectedSellerId=0&adid=22222222227000000000&wl0=&wl1=g&wl2=c&wl3=42423897272&wl4=pla-51320962143&wl5=9032171&wl6=&wl7=&wl8=&wl9=pla&wl10=8175035&wl11=online&wl12=867503072&veh=sem&gclid=Cj0KCQjw1_SkBhDwARIsANbGpFv81HYpm2nDSU-Xtl1g5NPh5N1mXWtz-GzYoDLZg4MIYTpKHmcZK30aAhO-EALw_wcB"> Link </a> |
