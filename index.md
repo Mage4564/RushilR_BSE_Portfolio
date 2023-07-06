@@ -8,7 +8,7 @@ I am utilizing ESP32 Pico as well as several provided components, including an I
 | Rushil R | Los Altos High School | Computer Science & Engineering| Rising Junior
 
 <html>
-<img src="Rushil-Headshot.png" width="300" height="400">
+<img src="PXL_20230703_224933731.MP.jpg" width="900" height="300">
 </html>
 
 # Fourth Milestone
